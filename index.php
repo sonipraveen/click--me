@@ -829,7 +829,10 @@ window.onload = loop;
 
 
 </script>
-
+<a title="Real Time Web Analytics" href="http://clicky.com/101286601"><img src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101286601);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101286601ns.gif" /></p></noscript>
 </div></body>
 
 
