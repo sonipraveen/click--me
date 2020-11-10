@@ -12,7 +12,7 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 <!---This script Edited and Designed By Kishan Raj-----> 
 <script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_1&tagid=9'></script>
 
-
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_2'></script>
 
 <!--------technical kishan ji channel subscribe kijia Agr apko koi bhi wishing script taiyari karni ho hame comment kisha   ------->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
