@@ -10,7 +10,7 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 <html>
 <head>
 <!---This script Edited and Designed By Kishan Raj-----> 
-
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_1&tagid=9'></script>
 
 
 
