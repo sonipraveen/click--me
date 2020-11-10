@@ -514,8 +514,7 @@ border-radius: 15px;
 
 <center>
 <!-- adcode -->
-
-<script data-ad-client="ca-pub-7012600020046193" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_0'></script>
 <!-- adcode -->
 </center>
 <br>
@@ -542,8 +541,7 @@ border-radius: 15px;
 </div></center>
 <center>
 <!-- adcode -->
-
-<script data-ad-client="ca-pub-7012600020046193" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_0'></script>
 <!-- adcode -->
 </center>
 <center></center>
@@ -567,7 +565,7 @@ border-radius: 15px;
 <div class="glow"><?php echo $name; ?></div>
 <br><br>
 
-<a class="footerbtn" href="whatsapp://send?text=*<?php echo $name; ?>* ने आपके लिए कुछ भेजा है  %0A ब्लू लाइन को टच करके देखो    👇 👇 https://diwali-r.herokuapp.com/?n=<?php echo $name; ?>"><img width="25px" height="25px" src="img\whatsapp.png"><b style="font-size: 19px;">👉 सबको भेजें  👈</b>  <img width="25px" height="25px" src="img\whatsapp.png">
+<a class="footerbtn" href="whatsapp://send?text=*<?php echo $name; ?>* ने आपके लिए कुछ भेजा है  %0A ब्लू लाइन को टच करके देखो    👇 👇 https://click--me.herokuapp.com/?n=<?php echo $name; ?>"><img width="25px" height="25px" src="img\whatsapp.png"><b style="font-size: 19px;">👉 सबको भेजें  👈</b>  <img width="25px" height="25px" src="img\whatsapp.png">
 </a>
 
 
