@@ -484,8 +484,7 @@ $(document).ready(function(){$curtainopen=!1,$(".rope").click(function(){return 
 <br>
 <center>
 <!-- adcode -->
-
-<script data-ad-client="ca-pub-7012600020046193" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_0'></script>
 <!-- adcode -->
 </center>
 <br>
@@ -513,7 +512,8 @@ $(document).ready(function(){$curtainopen=!1,$(".rope").click(function(){return 
 <center>
 <!-- adcode -->
 
-<script data-ad-client="ca-pub-7012600020046193" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-cfasync='false' type='text/javascript' src='//p416522.clksite.com/adServe/banners?tid=416522_819913_0'></script>
+
 <!-- adcode -->
 </center>
 <center></center>
