@@ -567,7 +567,7 @@ border-radius: 15px;
 <div class="glow"><?php echo $name; ?></div>
 <br><br>
 
-<a class="footerbtn" href="whatsapp://send?text=*<?php echo $name; ?>* ने आपके लिए कुछ भेजा है  %0A ब्लू लाइन को टच करके देखो    👇 👇 dhamakabihar.in/okdj/?n=<?php echo $name; ?>"><img width="25px" height="25px" src="img\whatsapp.png"><b style="font-size: 19px;">👉 सबको भेजें  👈</b>  <img width="25px" height="25px" src="img\whatsapp.png">
+<a class="footerbtn" href="whatsapp://send?text=*<?php echo $name; ?>* ने आपके लिए कुछ भेजा है  %0A ब्लू लाइन को टच करके देखो    👇 👇 https://diwali-r.herokuapp.com/?n=<?php echo $name; ?>"><img width="25px" height="25px" src="img\whatsapp.png"><b style="font-size: 19px;">👉 सबको भेजें  👈</b>  <img width="25px" height="25px" src="img\whatsapp.png">
 </a>
 
 
